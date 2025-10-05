@@ -1,4 +1,4 @@
-# DA5401 — Assignment 5: Manifold Visualization (t-SNE & Isomap)
+# DA5401 — Assignment 5: Visualizing Data Veracity Challenges in Multi-Label Classification
 
 **Student:** Abesech Inbasekar  
 **Roll Number:** ME21B003  
