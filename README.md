@@ -13,7 +13,7 @@ Contains the full workflow — data loading, preprocessing, scaling, t-SNE and I
 
 ---
 
-## 🧩 How to Run
+## How to Run
 
 1. **Clone the repository** and open the notebook in **Jupyter** or **Google Colab**.  
 2. Place `yeast.arff` and `yeast.xml` inside the `data/` folder (or update the paths in the notebook).  
