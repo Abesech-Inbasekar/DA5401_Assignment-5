@@ -5,12 +5,11 @@
 
 ---
 ## Repository Structure
-├── Assignment_5.ipynb # Main Jupyter notebook with preprocessing, t-SNE, Isomap, and analysis
+├── Assignment_5.ipynb # Main Jupyter notebook with preprocessing, t-SNE, Isomap, and analysis  
 ├── README.md # This file – explains project structure and submission details
 
 **Assignment_5.ipynb:**  
-Contains the full workflow — data loading, preprocessing, scaling, t-SNE and Isomap embedding,  
-visualization, veracity inspection, and comparison of local vs global structure.
+Contains the full workflow — data loading, preprocessing, scaling, t-SNE and Isomap embedding, visualization, veracity inspection, and comparison of local vs global structure.
 
 ---
 
